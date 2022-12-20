@@ -26,3 +26,10 @@ header > p {
   padding-bottom: 50px;
 
 }
+
+a {
+  color: white;
+  text-decoration: none;
+  font-style: italic;
+  font-weight: bold;
+}
