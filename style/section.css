@@ -1,0 +1,19 @@
+section {
+  padding: 10vh 0px 10vh 30px;
+  line-height: 2em;
+}
+
+section.normal {
+  background-color: white;
+  color: rgb(9, 9, 9);
+}
+
+section.imagem {
+  background-color: rgb(29, 29, 29);
+  color: white;
+}
+
+section.imagem > p {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 300px;
+}
