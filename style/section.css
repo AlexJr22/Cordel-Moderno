@@ -1,6 +1,7 @@
 section {
   padding: 10vh 0px 10vh 30px;
   line-height: 2em;
+  font-family: var(--font3);
 }
 
 section.normal {
