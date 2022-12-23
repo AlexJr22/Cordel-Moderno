@@ -13,7 +13,6 @@ section.normal {
 section > p {
   padding-bottom: 1em;
   padding: 15px;
-  border: wheat solid;
 }
 
 section > p.sep-1 {
@@ -26,12 +25,17 @@ section.imagem {
 }
 
 section.imagem > p {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
 }
 
 section#img01{
   background-image: url(../images/background001.jpg);
+  background-position: right center;
+  background-size: cover;
 }
 section#img02{
   background-image: url(../images/background002.jpg);
+  background-position: right center;
+  background-size: cover;
 }
