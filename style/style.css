@@ -36,3 +36,14 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+::-webkit-scrollbar {
+  background-color: aliceblue;
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #00b9ad75;
+  border-radius: 10px;
+}
