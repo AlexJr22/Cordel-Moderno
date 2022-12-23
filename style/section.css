@@ -22,6 +22,7 @@ section > p.sep-1 {
 section.imagem {
   background-color: rgb(29, 29, 29);
   color: white;
+  box-shadow: inset 0px 7px 13px rgba(0, 0, 0, 0.466);
 }
 
 section.imagem > p {
