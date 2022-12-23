@@ -28,6 +28,7 @@ section.imagem {
 
 section.imagem > p {
   background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2%;
   display: inline-block;
 }
 
